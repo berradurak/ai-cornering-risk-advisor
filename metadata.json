@@ -1,0 +1,5 @@
+{
+  "name": "AI Cornering Risk Advisor",
+  "description": "An interactive dashboard for automotive AI cornering risk assessment, including synthetic data generation, model visualization, and AI-powered safety insights.",
+  "requestFramePermissions": []
+}
